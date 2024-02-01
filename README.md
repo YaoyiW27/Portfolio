@@ -3,7 +3,7 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">yaoyiwang.portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/Users/wangyaoyi/Desktop/Portfolio/Images/readme-img.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
