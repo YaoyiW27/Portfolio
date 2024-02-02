@@ -9,11 +9,13 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
           Hi Everyone, I am <span className="purple">Yaoyi Wang </span>
-            from <span className="purple"> Guizhou, China.</span>
+            from <span className="purple"> China.</span>
+            <br />
             <br />
             I enrolled in Computer Science - Align Program at Northeastern University in downtown Vancouver.
             <br />
-            I am also employed as a Overseas Operations freelance at Voyager Global. 
+            <br />
+            I am also employed as an Overseas operations specialist at Voyager Global. 
             <br />
             <br />
             Apart from coding, some other activities that I love:
