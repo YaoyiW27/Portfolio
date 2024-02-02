@@ -12,10 +12,7 @@ function AboutCard() {
             from <span className="purple"> China.</span>
             <br />
             <br />
-            I enrolled in Computer Science - Align Program at Northeastern University in downtown Vancouver.
-            <br />
-            <br />
-            I am also employed as an Overseas Operations Specialist(freelance) at Voyager Global. 
+            I enrolled in Computer Science - Align Program at Northeastern University in downtown Vancouver. I am also employed as an Overseas Operations Specialist(freelance) at Voyager Global. 
             <br />
             <br />
             Apart from coding, some other activities that I love:
