@@ -25,10 +25,10 @@ function Home2() {
               and I am actively seeking co-op/intern opportunities in software development or QA testing to apply my growing knowledge.
               <br />
               <br />
-              My academic adventure began with Python and the foundational principles of discrete structures(23FA).
-              This semester(24SP), I'm delving into Java, C, and the intricate world of data structures and algorithms.
-              Beyond the classroom, I've been independently exploring the realms of web development,
-              mastering tools like HTML, CSS, JavaScript, jQuery, Node.js, Express.js, React, and various Web APIs to broaden my skill set.
+              My academic adventure began with Python and Discrete Structures(23FA).
+              This semester(24SP), I'm delving into Java, C, Data Structures and Algorithms.
+              Beyond the classroom, I've been independently exploring web development,
+              using tools like HTML, CSS, JavaScript, jQuery, Node.js, Express.js, React, and various Web APIs to broaden my skill set.
               <br />
               <br />
               With a heart open to learning and a mind brimming with ideas, 
