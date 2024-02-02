@@ -15,7 +15,7 @@ function AboutCard() {
             I enrolled in Computer Science - Align Program at Northeastern University in downtown Vancouver.
             <br />
             <br />
-            I am also employed as an Overseas operations specialist at Voyager Global. 
+            I am also employed as an Overseas Operations Specialist(freelance) at Voyager Global. 
             <br />
             <br />
             Apart from coding, some other activities that I love:
