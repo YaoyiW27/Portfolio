@@ -1,6 +1,6 @@
 <h2 align="center">
   Personal Portfolio<br/>
-  <a href="https://yaoyi.vercel.app/" target="_blank">yaoyiwang.portfolio</a>
+  <a href="https://yaoyi.vercel.app/" target="_blank">Yaoyi's Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
@@ -20,7 +20,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://yaoyi.vercel.app/" target="_blank">yaoyiwang.portfolio</a> 
+My personal portfolio <a href="https://yaoyi.vercel.app/" target="_blank">Yaoyi's Portfolio</a> 
 <br/>
 
 This project was built using these technologies.
