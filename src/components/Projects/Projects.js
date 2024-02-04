@@ -24,7 +24,7 @@ function Projects() {
               description="This web application leverages NASA's Open APIs to bring space exploration and astronomical wonders closer to the public. This platform will captivate users with the Astronomy Picture of the Day, offering images, explanations, and dates, while also providing a Daily Earth Photos Gallery for immersive exploration. 
               Users can search for specific Astronomy Pictures, and experience the oddity of earth through the View Natural Event feature."
               ghLink="https://github.com/YaoyiW27/CS5001"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              demoLink="https://cs5001-cosmos.streamlit.app/" 
             />
           </Col>
         </Row>
