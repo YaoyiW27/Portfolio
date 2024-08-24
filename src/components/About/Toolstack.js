@@ -7,8 +7,9 @@ import {
   SiVercel,
   SiMacos,
   SiAtom,
-  SiStreamlit,
+  SiIntellijidea,
 } from "react-icons/si";
+import { FaStripe } from "react-icons/fa";
 
 function Toolstack() {
   return (
@@ -20,19 +21,22 @@ function Toolstack() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVimeo />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiIntellijidea />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAtom />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiStreamlit />
+        <SiVimeo />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostman />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVercel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaStripe />
       </Col>
     </Row>
   );

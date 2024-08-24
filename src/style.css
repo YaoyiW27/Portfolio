@@ -13,7 +13,7 @@ html {
   
     --imp-text-color: #cf93eb;
   }
-  
+
   .purple {
     color: var(--imp-text-color) !important;
   }

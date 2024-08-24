@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import nasa from "../../Assets/Projects/nasa.png";
+import homebnb from "../../Assets/Projects/homebnb.png";
 
 function Projects() {
   return (
@@ -16,7 +17,23 @@ function Projects() {
           Here are the projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          <Col md={5} className="project-card">
+            <ProjectCard
+              imgPath={homebnb}
+              isBlog={false}
+              title="Homebnb"
+              description="This full-stack web application, Homebnb, offers a platform for users to explore, book, and manage vacation rentals. 
+              Built with Next.js and TypeScript, the application provides a responsive and user-friendly interface, enabling users to browse property listings, view detailed descriptions, and select their preferred dates for booking. 
+              Integrated with Stripe for secure payments, Homebnb ensures a smooth transaction process. 
+              The platform also includes a comprehensive booking management system, where users can view, modify, or cancel their reservations. 
+              Homebnb is designed to make vacation planning effortless and enjoyable."
+              ghLink="https://github.com/YaoyiW27/Homebnb"
+              demoLink="https://homebnb-olive.vercel.app/" 
+            />
+          </Col>
+        </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={nasa}
               isBlog={false}

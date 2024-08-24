@@ -9,17 +9,18 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
           Hi, I am <span className="purple">Yaoyi Wang </span>
-            from <span className="purple"> China.</span>
+            from <span className="purple"> Guiyang, Guizhou, China.</span>
             <br />
             <br />
-            I enrolled in Computer Science - Align Program at Northeastern University in downtown Vancouver. I am also employed as an Overseas Operations Specialist(freelance) at Voyager Global. 
+            I am currently pursuing a Master of Science in Computer Science at Northeastern University. 
+            My academic journey is complemented by a Bachelor of Arts in English Language and Literature with a minor in Finance in China where I honed my analytical and communication skills. 
             <br />
             <br />
             Apart from coding, some other activities that I love:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling & Hiking
             </li>
             <li className="about-activity">
               <ImPointRight /> Movies & Music

@@ -19,16 +19,17 @@ function Home2() {
               My Journey into <span className="purple"> Tech </span> 🖥️
             </h1>
             <p className="home-about-body">
-              Transitioning from a Bachelor of Arts to the dynamic world of technology, 
-              I embarked on an exciting journey at Northeastern University through the Computer Science - Align program.
-              My passion for embracing new technologies has driven me forward,
-              and I am actively seeking co-op/intern opportunities in software development or QA testing to apply my growing knowledge.
+              Growing up in the mountains of <b className="purple">Guizhou</b> as a member of the <b className="purple">Miao ethnic minority</b>, 
+              I was immersed in the rich cultural heritage of my community, such as Miao batik and embroidery. 
+              Observing efforts to promote our culture through English signs and maps, 
+              I realized that more could be done to make <b className="purple">Miao culture</b> accessible to a broader audience. 
+              This realization inspired me to explore how <b className="purple">technology</b> could <b className="purple">bridge cultural gaps</b> and <b className="purple">share our heritage with the world</b>.
               <br />
               <br />
-              My academic adventure began with Python and Discrete Structures(23FA).
-              This semester(24SP), I'm delving into Java, C, Data Structures and Algorithms.
-              Beyond the classroom, I've been independently exploring web development,
-              using tools like HTML, CSS, JavaScript, jQuery, Node.js, Express.js, React, and various Web APIs to broaden my skill set.
+              Driven by my deep-rooted interest in cultural exchange and language, I focused on understanding diverse cultures and their expressions.
+              I transitioned from a Bachelor of Arts in English and a minor in Finance to pursuing a Master of Science in Computer Science at Northeastern University.
+              My academic journey has provided me with a <b className="purple">multidisciplinary perspective</b>, enriching my approach to problem-solving in the tech industry. 
+              Currently, I am focusing on building my expertise in software development and am <b className="purple">actively seeking opportunities for a 2025 summer/fall internship in software development or related fields</b>, where I can contribute to innovative and impactful projects.
               <br />
               <br />
               With a heart open to learning and a mind brimming with ideas, 
