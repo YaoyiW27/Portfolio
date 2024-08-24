@@ -17,7 +17,7 @@ function Projects() {
           Here are the projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={5} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={homebnb}
               isBlog={false}
@@ -31,9 +31,8 @@ function Projects() {
               demoLink="https://homebnb-olive.vercel.app/" 
             />
           </Col>
-        </Row>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={5} className="project-card">
+
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={nasa}
               isBlog={false}
