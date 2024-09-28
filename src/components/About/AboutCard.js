@@ -12,8 +12,9 @@ function AboutCard() {
             from <span className="purple"> Guiyang, Guizhou, China.</span>
             <br />
             <br />
-            I am currently pursuing a Master of Science in Computer Science at Northeastern University. 
-            My academic journey is complemented by a Bachelor of Arts in English Language and Literature with a minor in Finance in China where I honed my analytical and communication skills. 
+            A MS in Computer Science student at Northeastern University with prior academic background including English Literature, Anthropology, and Finance.
+            I have hands-on experience working with full-stack development, API design, and database management. 
+            Currently, I am expanding my skills in Kotlin, Agile methodologies, Azure, and Spring Boot, driving my passion for building scalable applications and delivering innovative solutions.
             <br />
             <br />
             Apart from coding, some other activities that I love:
