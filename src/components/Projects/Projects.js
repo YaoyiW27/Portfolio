@@ -28,7 +28,7 @@ function Projects() {
               The platform also includes a comprehensive booking management system, where users can view, modify, or cancel their reservations. 
               Homebnb is designed to make vacation planning effortless and enjoyable."
               ghLink="https://github.com/YaoyiW27/Homebnb"
-              demoLink="https://homebnb-olive.vercel.app/" 
+              demoLink="https://youtu.be/snUfxT_pMYM" 
             />
           </Col>
 
@@ -40,7 +40,7 @@ function Projects() {
               description="This web application leverages NASA's Open APIs to bring space exploration and astronomical wonders closer to the public. This platform will captivate users with the Astronomy Picture of the Day, offering images, explanations, and dates, while also providing a Daily Earth Photos Gallery for immersive exploration. 
               Users can search for specific Astronomy Pictures, and experience the oddity of earth through the View Natural Event feature."
               ghLink="https://github.com/YaoyiW27/CS5001"
-              demoLink="https://cs5001-cosmos.streamlit.app/" 
+              demoLink="https://youtu.be/FZcuDyRFKnQ" 
             />
           </Col>
         </Row>
